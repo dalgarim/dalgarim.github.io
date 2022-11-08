@@ -1,0 +1,5 @@
+baseURL = 'https://dalgarim.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "cactus"
+publishDir = "docs"
